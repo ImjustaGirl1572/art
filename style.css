@@ -1,0 +1,10 @@
+.nav-section {
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.nav-logo {
+    width: 200px;
+    height: 100px;
+}
