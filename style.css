@@ -1,10 +1,29 @@
 .nav-section {
     display: flex;
     justify-content: space-between;
-    
+    align-items: center;
 }
 
 .nav-logo {
     width: 200px;
     height: 100px;
+}
+
+.hero-section {
+    display: flex;
+    justify-content:center ;
+    gap: 40px;
+}
+
+.hero-image {
+    width: 450px;
+    height: 600px;
+}
+
+.hero-title {
+    font-size: 58px;
+}
+
+.hero-description {
+    font-size: 18px;
 }
