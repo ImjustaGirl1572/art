@@ -37,3 +37,27 @@
 .about-text {
     width: 600px;
 }
+
+.product-section {
+    
+}
+
+.product-image {
+    width: 350px;
+    height: 500px; 
+}
+
+.product-group {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+
+.product-title {
+    text-align: center;
+    font-size: 32px;
+}
+
+.product-description {
+    text-align: center;
+}
