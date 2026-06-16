@@ -38,10 +38,6 @@
     width: 600px;
 }
 
-.product-section {
-    
-}
-
 .product-image {
     width: 350px;
     height: 500px; 
@@ -60,4 +56,27 @@
 
 .product-description {
     text-align: center;
+}
+
+.advert-section {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
+
+.advert-image {
+    height: 500px;
+    width: 500px;
+}
+
+.advert-column-one {
+    width: 500px;
+}
+
+.advert-title {
+    font-size: 32px;
+}
+
+.advert-button {
+    border: none;
 }
