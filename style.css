@@ -79,4 +79,29 @@
 
 .advert-button {
     border: none;
+    background-color: plum;
 }
+
+.advert-two-section {
+    display: flex;
+    gap: 40px;
+}
+
+.advert-two-image {
+    width: 500px;
+    height: 500px;
+}
+
+.advert-two-title {
+    font-size: 32px;
+}
+
+.advert-two-description {
+    font-size: 16px;
+}
+
+.advert-two-button {
+    border: none;
+    background-color: plum;
+}
+
