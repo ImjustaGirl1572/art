@@ -138,3 +138,30 @@
    margin-bottom: 20px; 
    width: 200px;
 }
+
+.footer-image-section {
+    display: flex;
+}
+
+.footer-image {
+    width: 250px;
+    height: 250px;
+}
+
+.social-title {
+    text-align: center;
+    font-size: 40px;
+}
+
+.social-name {
+    text-align: center;
+    font-size: 25px;
+}
+
+.footer-section {
+    display: flex;
+    justify-content: center;
+    gap: 45px;
+    padding-top: 35px;
+    padding-bottom: 35px;
+}
